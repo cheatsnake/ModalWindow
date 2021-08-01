@@ -1,4 +1,4 @@
-# ModalWindow
+# Modal Window
 
 [![N|Solid](https://i.ibb.co/PxTMPJ9/btn.png)](https://cheatsnake.github.io/ModalWindow)
 
